@@ -1,0 +1,1 @@
+print("Primeira ingestão realizada!")
